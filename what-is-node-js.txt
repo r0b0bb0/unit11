@@ -1,0 +1,5 @@
+Robert Siniscalchi
+Unit 11 Assignment
+
+
+Node.js is an open source server framework built on Google Chrome's JavaScript Engine (V8 Engine) that allow companies and individuals to easily run their web applications. The Node.js runtime environment is compatible with all platforms (Windows, Mac, and Linux) and provides instant access to many different code libraries. Because it was designed to be asynchronous, Node.js eliminates the typical buffering period experienced when handling several client requests, making it more efficient and scalable. Node.js is compatible with any JavaScript file once the server has been set up on a local machine and has become the industry standard for data intensive, streaming sites and applications.
